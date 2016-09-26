@@ -1,13 +1,15 @@
 
-def greeting(msg):
-	print(msg)
-	return 0
+
+import helper.py
 
 
 msg = input("Enter your message!")
 
 
 greeting(msg)
+
+
+
 
 
 
